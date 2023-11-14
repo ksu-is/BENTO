@@ -1,9 +1,9 @@
 # Project Road Map
 
 **SPRINT 1**
-- [] README.md
-- [] projectroadmap.md
-- [] explore codebases
+- [x] README.md
+- [x] projectroadmap.md
+- [x] explore codebases
 
 **SPRINT 2**
 - [] update with commit messages
