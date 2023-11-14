@@ -1,9 +1,11 @@
 # Project Road Map
 
 **SPRINT 1**
+- [x] KSU-IS JOIN
 - [x] README.md
 - [x] projectroadmap.md
 - [x] explore codebases
+- [x] KSU-IS FORK
 
 **SPRINT 2**
 - [] update with commit messages
