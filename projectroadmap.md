@@ -8,10 +8,10 @@
 - [x] KSU-IS FORK
 
 **SPRINT 2**
-- [] update with commit messages
-- [] minimum of 6 code changes
-- [] include SPECIFIC comments
-- [] document changes in roadmap
+- [X] update with commit messages
+- [X] minimum of 6 code changes
+- [X] include SPECIFIC comments
+- [X] document changes in roadmap
 
 **SPRINT 3**
 - [] test and edit code
