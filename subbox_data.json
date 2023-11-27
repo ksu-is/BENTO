@@ -1,0 +1,61 @@
+[
+    {
+        "tag": "carb",
+        "title": "rice",
+        "ingredients": "white rice",
+    },
+    {
+        "tag": "carb",
+        "title": "noodles",
+        "ingredients": "type noodles",
+    },
+    {
+        "tag": "protein",
+        "title": "type fish",
+        "ingredients": "type fish",
+    },
+    {
+        "tag": "protein",
+        "title": "type chicken",
+        "ingredients": "type chicken",
+    },
+    {
+        "tag": "protein",
+        "title": "tamagoyaki",
+        "ingredients": "rolled egg omelette",
+    },
+    {
+        "tag": "vegetable",
+        "title": "type vegetable",
+        "ingredients": "veg",
+    },
+    {
+        "tag": "vegetable",
+        "title": "veg",
+        "ingredients": "veg",
+    },
+    {
+        "tag": "vegetable",
+        "title": "veg",
+        "ingredients": "veg",
+    },
+    {
+        "tag": "agemono",
+        "title": "type tempura",
+        "ingredients": "type deep-fried",
+    },
+    {
+        "tag": "agemono",
+        "title": "type karaage",
+        "ingredients": "type karaage",
+    },
+    {
+        "tag": "agemono",
+        "title": "korokke",
+        "ingredients": "type croquette",
+    },
+    {
+        "tag": "sushi maki",
+        "title": "type sushi",
+        "ingredients": "type sushi",
+    },
