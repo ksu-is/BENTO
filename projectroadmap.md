@@ -14,5 +14,5 @@
 - [X] document changes in roadmap
 
 **SPRINT 3**
-- [] test and edit code
-- [] PowerPoint slide on project
+- [x] test and edit code
+- [x] PowerPoint slide on project
