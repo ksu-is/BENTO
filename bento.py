@@ -10,25 +10,24 @@ def options(tag):
 # return every item name in json list with corresponding tag
 
 count = int(input ("Hello! To begin creating your bento enter how many containers are in your box: "))
-# enter number of containers
 containers = []
-index = (count -1)
+index =0
 
-while count > 0:
+while index < count:
     print("Each container can be filled by one of the following categories.\n", categories)
-    response = input("Enter category for a list of options.\n")
     
-    while response != "go back":
-        
+    response = ""
+    while response != "select":
+        response = input("Enter category for a list of options.\n")
         print(options(response))
         # search list for tag and print results
         
-        response = input("Enter option for more information or 'go back'.\n")
-       # while response != "return":
-          #  print(info(response))
-            #response = input("Enter 'return' to go back:")
-    
-    selection = input("Enter selection for container",count)
+        response = input("View categories again or enter 'select' to make a selection.\n")
+
+    selection = input("Enter selection for container.\n")
     containers.insert(index, selection)
     # selection is inserted into list at the current box 
-    count -= 1
+    print("Box",index+1,"is now filled with",selection,"!")
+    index +=1
+
+print("Here is your bento:",containers)
