@@ -2,106 +2,106 @@
     {
         "tag": "carb",
         "title": "gohan",
-        "ingredients": "steamed white rice",
+        "ingredients": "steamed white rice"
     },
     {
         "tag": "carb",
         "title": "noodles",
-        "ingredients": "various noodle types",
+        "ingredients": "various noodle types"
     },
     {
         "tag": "protein",
         "title": "tako sausage",
-        "ingredients": "mini sausage cut and cooked",
+        "ingredients": "mini sausage cut and cooked"
     },
     {
         "tag": "protein",
         "title": "tamagoyaki",
-        "ingredients": "rolled egg omelette",
+        "ingredients": "rolled egg omelette"
     },
     {
         "tag": "protein",
         "title": "edamame",
-        "ingredients": "boiled or steamed soybean pods, salt",
+        "ingredients": "boiled or steamed soybean pods, salt"
     },
     {
         "tag": "fruit",
         "title": "sliced fruit",
-        "ingredients": "various fruit types",
+        "ingredients": "various fruit types"
     },
     {
         "tag": "itamemono",
         "title": "kinpira gobo",
-        "ingredients": "stirfry burdock root, carrot, mirin, soy sauce, sesame seeds",
+        "ingredients": "stirfry burdock root, carrot, mirin, soy sauce, sesame seeds"
     },
     {
         "tag": "itamemono",
         "title": "kinpira renkon",
-        "ingredients": "stirfry lotus root, mirin, soy sauce, sesame oil, sesame seeds",
+        "ingredients": "stirfry lotus root, mirin, soy sauce, sesame oil, sesame seeds"
     },
     {
         "tag": "tsukemono",
         "title": "sunomono salad",
-        "ingredients": "cucumber, rice vinegar, soy sauce, sugar, sesame seeds",
+        "ingredients": "cucumber, rice vinegar, soy sauce, sugar, sesame seeds"
     },
     {
         "tag": "tsukemono",
         "title": "pickled radish",
-        "ingredients": "daikon radish, vinegar, sugar, salt",
+        "ingredients": "daikon radish, vinegar, sugar, salt"
     },
     {
         "tag": "agemono",
         "title": "kakiage tempura",
-        "ingredients": "carrot, onion, scallion, flour, potato or corn starch",
+        "ingredients": "carrot, onion, scallion, flour, potato or corn starch"
     },
     {
         "tag": "agemono",
         "title": "chiken karaage",
-        "ingredients": "fried chicken, flour, oil",
+        "ingredients": "fried chicken, flour, oil"
     },
     {
         "tag": "agemono",
         "title": "potato korokke",
-        "ingredients": "potato, optional meat or vegetables, flour",
+        "ingredients": "potato, optional meat or vegetables, flour"
     },
     {
         "tag": "yakimono",
         "title": "gyoza",
-        "ingredients": "dumplings filled with vegetables and meat",
+        "ingredients": "dumplings filled with vegetables and meat"
     },
     {
         "tag": "yakimono",
         "title": "yakitori",
-        "ingredients": "barbequed chicken skewers, tare sauce",
+        "ingredients": "barbequed chicken skewers, tare sauce"
     },
     {
         "tag": "yakimono",
         "title": "chicken teriyaki",
-        "ingredients": "grilled and glazed chicken, soy sauce, mirin, sugar",
+        "ingredients": "grilled and glazed chicken, soy sauce, mirin, sugar"
     },
     {
         "tag": "yakimono",
         "title": "nasu dengaku",
-        "ingredients": "miso glazed eggplant, vegetable oil, sugar, mirin, sesame seeds",
+        "ingredients": "miso glazed eggplant, vegetable oil, sugar, mirin, sesame seeds"
     },
     {
         "tag": "yakimono",
         "title": "yaki imo",
-        "ingredients": "baked japanese sweet potato",
+        "ingredients": "baked japanese sweet potato"
     },
     {
         "tag": "yakimono",
         "title": "yaki onigiri",
-        "ingredients": "grilled rice balls with glaze, soy sauce",
+        "ingredients": "grilled rice balls with glaze, soy sauce"
     },
     {
         "tag": "norimaki",
         "title": "onigiri",
-        "ingredients": "rice, nori seaweed, optional fillings",
+        "ingredients": "rice, nori seaweed, optional fillings"
     },
     {
         "tag": "norimaki",
         "title": "kappa maki",
-        "ingredients": "cucumber, rice, nori seaweed",
+        "ingredients": "cucumber, rice, nori seaweed"
     }
 ]
