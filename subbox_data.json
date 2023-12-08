@@ -26,8 +26,13 @@
     },
     {
         "tag": "fruit",
-        "title": "sliced fruit",
-        "ingredients": "various fruit types"
+        "title": "kazarikiri fruit",
+        "ingredients": "bunny-cut apple slices"
+    },
+    {
+        "tag": "veggie",
+        "title": "kazarikiri veggie",
+        "ingredients": "flower-cut carrot slices"
     },
     {
         "tag": "itamemono",
