@@ -1,10 +1,11 @@
 # How It Works
 
-"BENTO" helps the user make a lunchbox according to the needs specified.
+"BENTO" helps the user make a lunchbox with a menu of options. 
 
-This virtual lunchbox has containers waiting to be filled with foods of your choice.
+Select the desired food options to complete the virtual bento.
 
-Foods will be shown in categories, but the intention is not to force a "healthy" or balanced meal.
+NOTE:
+This virtual lunchbox has filling options sorted into traditional japanese categories, 
+but the list could be expanded according to tastes.
 
-Ultimately it is up to the user to select what foods fill the entered number of boxes.
 
