@@ -1,7 +1,7 @@
 import json
 import pandas
 
-categories = ["carb", "protein", "fruit", "raw veggie", "itamemono", "tsukemono", "agemono", "yakimono", "norimaki"]
+categories = ["carb", "protein", "fruit", "veggie", "itamemono", "tsukemono", "agemono", "yakimono", "norimaki"]
 
 data = pandas.read_json("subbox_data.json", orient="records")
 
@@ -24,10 +24,22 @@ while index < count:
         
         response = input("View categories again or enter 'select' to make a selection.\n")
 
-    selection = input("Enter selection for container.\n")
-    containers.insert(index, selection)
-    # selection is inserted into list at the current box 
+    selection = ""
+    while selection not in list(data.title):
+        selection = input("Enter selection for container.\n")
+        if(selection in list(data.title)):
+            containers.insert(index, selection)
+            break
+        else:
+            print("Enter valid selection.\n")
+
+    # valid selection is inserted into list at the current box 
     print("Box",index+1,"is now filled with",selection,"!")
     index +=1
 
-print("Here is your bento:",containers)
+print("Here is your completed bento :",containers)
+
+ingredients = []
+for item in containers:
+       ingredients.append(data[data.title == item].ingredients.values[0])
+print("List of ingredients :",ingredients)
